@@ -16,5 +16,8 @@ Agregada la opción para copiar al clipboard el emoji clickeado, solo restaría 
 Consigo mostrar el mensaje de éxito al momento de clickear el emoji seleccionado a través del hook useState().
 Se agrega el || para buscar tanto por "title" como por "keywords".
 
+14/9
+El proyecto finalizado es subido a GitHub y posteriormente hosteado en Vercel
+
 
 
